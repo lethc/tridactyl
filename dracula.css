@@ -1,15 +1,15 @@
 :root {
   /* Dracula Colors */
-  --bg: #282a36;
+  --bg: #D3C6AA;
   --currentline: #D3C6AA;
   --fg: #D3C6AA;
   --comment: #6272a4;
   --cyan: #8ea4a2;
   --green: #8a9a7b;
   --orange: #b6927b;
-  --pink: #8a9a7b;
+  --pink: #E27D7E;
   --purple: #a292a3;
-  --red: #8a9a7b;
+  --red: #E27D7E;
   --yellow: #E69875;
   --font: noto; /*"FiraCode Nerd Font Mono";*/
 
