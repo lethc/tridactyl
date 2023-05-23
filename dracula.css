@@ -11,7 +11,7 @@
   --purple: #a292a3;
   --red: #E27D7E;
   --yellow: #E69875;
-  --font: JetBrainsMono; /*"FiraCode Nerd Font Mono";*/
+  --font: noto; /*"FiraCode Nerd Font Mono";*/
 
   --tridactyl-fg: var(--fg);
   --tridactyl-bg: var(--bg);
